@@ -1,0 +1,44 @@
+@import url(https://fonts.googleapis.com/css2?family=Lobster&display=swap);
+body{
+    font-family:lobster,cursive;
+    text-align: center;
+    margin: auto;
+    background-image: url("https://media.istockphoto.com/photos/planets-of-the-solar-system-in-orbit-picture-id111834966?k=20&m=111834966&s=612x612&w=0&h=LSlfICF6f6LudAwOPJ91Yg7WHg2LWD6pY61HVSK2AkA=");
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+}
+header{
+    background-color: black;
+    margin-top: -23px;
+    height: 200px;
+}
+.navbar-h1{
+    color: blueviolet;
+    margin-right: 980px;
+    padding-top: 30px;
+}
+a:hover{
+    color: red;
+}
+nav{
+    text-align: center;
+}
+a{
+    font-size: x-large;
+    text-decoration: none;
+    color: blueviolet;
+    margin: 100px;
+}
+div{
+    width: 600px;
+    margin: auto;
+    border: black solid 3px;
+    color: blueviolet;
+}
+.left{
+    margin-left: 100px;
+}
+.right{
+    margin-right: 100px;
+}
